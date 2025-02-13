@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03b82476-8555-461e-b85b-8d455fb9df9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../smth_backend/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/java/com/example/smth/FilterConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/java/com/example/smth/JWT/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/java/com/example/smth/JWT/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/java/com/example/smth/JWT/JwtSessionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/java/com/example/smth/JWT/JwtTokenService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/java/com/example/smth/JWT/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/FilterConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/JWT/AuthController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/JWT/JwtSessionFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/JWT/JwtTokenService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/JWT/LoginRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/entities/GoodsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/target/classes/com/example/smth/entities/GoodsEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/surefire-reports/TEST-com.example.smth.SmthApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/target/surefire-reports/TEST-com.example.smth.SmthApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smth_backend/target/surefire-reports/com.example.smth.SmthApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../smth_backend/target/surefire-reports/com.example.smth.SmthApplicationTests.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2t054YsRjqqNV0Xb2uxohZ0cf4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/andrejadajkin/Desktop/valentines_day_deploy/my-frontend",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03b82476-8555-461e-b85b-8d455fb9df9d" name="Changes" comment="" />
+      <created>1739475961021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739475961021</updated>
+      <workItem from="1739475962262" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
