@@ -1,0 +1,9 @@
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/Controller/Controller.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/SmthApplication.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/entities/ApiResponse.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/entities/GoodsEntity.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/entities/OrderEntity.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/repositories/GoodsRepository.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/repositories/OrderRepository.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/service/GoodsService.java
+/Users/andrejadajkin/Desktop/smth_deploy/smth_backend/src/main/java/com/example/smth/service/OrderService.java
