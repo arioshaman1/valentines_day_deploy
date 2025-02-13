@@ -5,7 +5,7 @@ services:
     build: 
       context: ./smth_backend
     ports:
-      - "8081:8081"
+      - "8082:8082"
     environment:
       SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/valentines
       SPRING_DATASOURCE_USERNAME: andrejadajkin
