@@ -2,6 +2,7 @@
   <div class="welcome-container">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <h1>Happy Valentine's Day</h1>
+    <img src="../assets/val_day_gif.gif" alt="Happy" />
     <button @click="goToHomePage">Перейти</button>
   </div>
 </template>

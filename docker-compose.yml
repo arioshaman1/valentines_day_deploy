@@ -5,23 +5,23 @@ services:
     build: 
       context: ./smth_backend
     ports:
-      - "8080:8080"
+      - "8081:8081"
     environment:
-      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/smth_database
+      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/valentines
       SPRING_DATASOURCE_USERNAME: andrejadajkin
       SPRING_DATASOURCE_PASSWORD: 12345678
     depends_on:
       - db
     networks:
-      - dev
+      - dev1
 
   frontend:
     build: 
-      context: ./my-frontend
+      context: ./valentines_front
     ports:
-      - "8081:8081"
+      - "3000:3000"
     networks:
-      - dev
+      - dev1
 
   db:
     image: mysql:8
@@ -33,22 +33,22 @@ services:
     volumes:
       - db_data:/var/lib/mysql
     ports:
-      - "3306:3306"
+      - "3307:3307"
     networks:
-      - dev
+      - dev1
 
   nginx:
     image: nginx:latest
     container_name: nginx
     ports:
-      - "80:80"
+      - "81:81"
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf
     depends_on:
       - backend
       - frontend
     networks:
-      - dev
+      - dev1
 
 volumes:
   db_data:
