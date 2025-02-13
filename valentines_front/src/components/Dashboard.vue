@@ -65,7 +65,6 @@ onMounted(async () => {
     error.value = 'Ошибка при загрузке данных пользователей';
   }
 });
-
 // Функция для отправки валентинки
 const sendValentine = async () => {
   try {
