@@ -54,5 +54,8 @@ public class OrderService {
         }
         return true;
     }
+    public OrderEntity save(OrderEntity orderEntity) {
+        return orderRepository.save(orderEntity);
+    }
 
 }
